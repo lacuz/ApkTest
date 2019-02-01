@@ -13,3 +13,4 @@
 <table><tr><td bgcolor= BlueViolet > 背景色2 BlueViolet </td></tr></table>
 <div align=center>或者用手机扫描二维码安装</div>
 <font color=#00ced1 size=7 face="黑体">背景色+字体+字的size</font><br/>
+<table><tr><td bgcolor=#FF4500>这里的背景色是：OrangeRed，  十六进制颜色值：#FF4500， rgb(255, 69, 0)</td></tr></table>
