@@ -11,3 +11,5 @@
 
 <div align=center>或者用手机扫描二维码安装</div>
 <div align=center>微信若无法下载，请复制链接使用浏览器打开</div>
+
+<span style="color: red"> Some red text </span>
