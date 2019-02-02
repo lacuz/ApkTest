@@ -5,6 +5,6 @@
 
 <div align=center><img width="200" height="200" src="https://github.com/lacuz/ApkTest/blob/master/jpg/ic_qrcode.png"/></div>
 
-<div align=center><img width="60" height="20" src="https://img.shields.io/badge/点击安装-brightgreen.svg?style=plastic"/></div>
+<div align=center><img width="90" height="30" src="https://img.shields.io/badge/点击安装-brightgreen.svg"/></div>
 
 <div align=center>或者用手机扫描二维码安装</div>
