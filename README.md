@@ -15,3 +15,5 @@
 <font color=#00ced1 size=7 face="黑体">背景色+字体+字的size</font><br/>
 <table><tr><td bgcolor=#FF4500>这里的背景色是：OrangeRed，  十六进制颜色值：#FF4500， rgb(255, 69, 0)</td></tr></table>
 ![瘦小的圆角矩形](https://img.shields.io/badge/language-swift-brightgreen.svg?style=plastic)
+
+[![](https://img.shields.io/badge/download-1K-brightgreen.svg)](https://www.baidu.com)
