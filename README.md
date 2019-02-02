@@ -3,7 +3,7 @@
 </br>
 <div align=center><img width="20" height="20" src="https://github.com/lacuz/ApkTest/blob/master/jpg/ic_android.png"/>Gan Station<font size=8 color=#D2691E face="黑体">（内测版）</font></div>
 </br>
-<div align=center><font color=#008000>我是绿色</font></div> 
+<div align=center><font color=#008000>版本号：v1.0（build 190201）大小：18M 更新时间：2019-02-02 10:58</font></div> 
 </br>
 <div align=center><img width="200" height="200" src="https://github.com/lacuz/ApkTest/blob/master/jpg/ic_qrcode.png"/></div>
 
